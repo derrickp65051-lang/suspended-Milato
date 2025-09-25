@@ -1,0 +1,525 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///media/archive/55GMS-main.zip/55GMS-main/static/games.html
+Subject: Google
+Date: Thu, 25 Sep 2025 09:23:22 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y----"
+
+
+------MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y----
+Content-Type: text/html
+Content-ID: <frame-453204BEC23F0FEF0BF0E5AB57FC9DA8@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///media/archive/55GMS-main.zip/55GMS-main/static/games.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-b9562a5f-696a-40d6-b656-157ddb48927d@mhtml.blink" />
+  <title>Google</title>
+ =20
+  <meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewp=
+ort">
+  <link href=3D"file:///assets/css/style.css?v=3D2" rel=3D"stylesheet">
+  <link rel=3D"stylesheet" href=3D"file:///assets/css/nav.css?v=3D3">
+ =20
+ =20
+ =20
+  <link href=3D"file:///img/favicon.ico" rel=3D"icon" type=3D"image/x-icon"=
+>
+ =20
+ =20
+  <meta http-equiv=3D"Cache-Control" content=3D"public, max-age=3D31536000"=
+>
+</head>
+
+<body>
+  <nav>
+    <div class=3D"navbar">
+      <a id=3D"nav-title" href=3D"file:///">Reds Exploit Corner</a>
+      <a href=3D"file:///g"><i class=3D"fa-solid fa-gamepad">&nbsp;</i>Game=
+s</a>
+      <a href=3D"file:///a"><i class=3D"fa-solid fa-box-archive">&nbsp;</i>=
+Apps</a>
+      <a href=3D"file:///-"><i class=3D"fa-solid fa-tv">&nbsp;</i>Media</a>
+      <a href=3D"file:///e"><i class=3D"fa-solid fa-robot"></i>&nbsp;AI</a>
+      <a href=3D"file:///s"><i class=3D"fa-solid fa-gears">&nbsp;</i>Settin=
+gs</a>
+      <a href=3D"file:///chat"><i class=3D"fa-solid fa-comments">&nbsp;</i>=
+</a>
+      <a href=3D"file:///profile"><i class=3D"fa-solid fa-user"></i></a>
+    </div>
+  </nav>
+  <main>
+    <link href=3D"file:///media/archive/55GMS-main.zip/55GMS-main/static/as=
+sets/css/games.css?v=3D4" rel=3D"stylesheet">
+   =20
+    <input class=3D"searchbar" placeholder=3D"Search through our games" typ=
+e=3D"text" autocomplete=3D"off"><br>
+    <div class=3D"adcenter">
+     =20
+     =20
+    </div>
+    <div id=3D"loading-container" class=3D"loading-container">
+      <div class=3D"loading-text" id=3D"loading-text">Loading games...</div=
+>
+      <div class=3D"progress-bar-container">
+        <div class=3D"progress-bar" id=3D"progress-bar"></div>
+      </div>
+      <div class=3D"progress-percentage" id=3D"progress-percentage">0%</div=
+>
+    </div>
+
+    <text id=3D"text" style=3D"display: none;"></text>
+    <div id=3D"game-container">
+    </div>
+    <div class=3D"adcenter">
+     =20
+     =20
+    </div>
+    <br>
+  </main>
+ =20
+ =20
+
+
+</body></html>
+------MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2") format("woff2")=
+; unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2") format("woff2")=
+; unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2") format("woff2")=
+; unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3=
+FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2") format("woff2")=
+; unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U=
++326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A=
+1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-201=
+7, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2=
+070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+210=
+0-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE,=
+ U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-23=
+0B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, =
+U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U=
++25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, =
+U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; =
+}
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2") format("woff2")=
+; unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-2=
+18F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219,=
+ U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U=
++2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, =
+U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-=
+102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-=
+1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F3=
+2C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3=
+AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+=
+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+=
+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F4=
+7D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+=
+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4=
+FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-=
+1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+=
+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+=
+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+=
+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+=
+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F9=
+96, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+=
+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2") format("woff2")=
+; unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+3=
+04, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20A=
+B, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 400; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2") format("woff2"); =
+unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+=
+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2=
+215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2") format("woff2")=
+; unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2") format("woff2")=
+; unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2") format("woff2")=
+; unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3=
+FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2") format("woff2")=
+; unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U=
++326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A=
+1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-201=
+7, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2=
+070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+210=
+0-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE,=
+ U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-23=
+0B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, =
+U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U=
++25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, =
+U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; =
+}
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2") format("woff2")=
+; unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-2=
+18F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219,=
+ U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U=
++2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, =
+U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-=
+102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-=
+1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F3=
+2C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3=
+AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+=
+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+=
+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F4=
+7D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+=
+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4=
+FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-=
+1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+=
+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+=
+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+=
+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+=
+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F9=
+96, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+=
+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2") format("woff2")=
+; unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+3=
+04, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20A=
+B, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 500; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2") format("woff2"); =
+unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+=
+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2=
+215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2") format("woff2")=
+; unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2") format("woff2")=
+; unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2") format("woff2")=
+; unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3=
+FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2") format("woff2")=
+; unicode-range: U+302-303, U+305, U+307-308, U+310, U+312, U+315, U+31A, U=
++326-327, U+32C, U+32F-330, U+332-333, U+338, U+33A, U+346, U+34D, U+391-3A=
+1, U+3A3-3A9, U+3B1-3C9, U+3D1, U+3D5-3D6, U+3F0-3F1, U+3F4-3F5, U+2016-201=
+7, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2=
+070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+210=
+0-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE,=
+ U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-23=
+0B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, =
+U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U=
++25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, =
+U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF; =
+}
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2") format("woff2")=
+; unicode-range: U+1-C, U+E-1F, U+7F-9F, U+20DD-20E0, U+20E2-20E4, U+2150-2=
+18F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219,=
+ U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U=
++2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, =
+U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-=
+102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-=
+1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F3=
+2C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3=
+AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+=
+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+=
+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F4=
+7D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+=
+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4=
+FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-=
+1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+=
+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+=
+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+=
+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+=
+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F9=
+96, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+=
+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2") format("woff2")=
+; unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+3=
+04, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20A=
+B, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Roboto; font-style: normal; font-weight: 700; fon=
+t-stretch: 100%; font-display: swap; src: url("https://fonts.gstatic.com/s/=
+roboto/v49/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2") format("woff2"); =
+unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+=
+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2=
+215, U+FEFF, U+FFFD; }
+------MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///media/archive/55GMS-main.zip/55GMS-main/static/assets/css/games.css?v=4
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DRoboto:wght@400;500=
+;700&display=3Dswap");
+
+* { padding: 0px; margin: 0px; }
+
+body, h1, h3, h4, h5, text, h6 { font-family: Roboto, serif; text-align: ce=
+nter; font-weight: 400; color: rgb(250, 249, 246); }
+
+.loading-container { display: flex; flex-direction: column; align-items: ce=
+nter; justify-content: center; margin: 20px 0px; gap: 15px; }
+
+.loading-text { font-family: Roboto, serif; font-size: 18px; font-weight: 5=
+00; color: rgb(250, 249, 246); opacity: 0.9; }
+
+.progress-bar-container { width: 400px; height: 12px; background: rgba(122,=
+ 143, 171, 0.3); border-radius: 6px; overflow: hidden; box-shadow: rgba(0, =
+0, 0, 0.2) 0px 2px 4px inset; border: 1px solid rgba(122, 143, 171, 0.5); }
+
+.progress-bar { height: 100%; background: linear-gradient(90deg, rgb(122, 1=
+43, 171) 0%, rgb(111, 130, 155) 50%, rgb(143, 165, 199) 100%); border-radiu=
+s: 6px; width: 0%; transition: width 0.3s; position: relative; overflow: hi=
+dden; }
+
+.progress-bar::before { content: ""; position: absolute; top: 0px; left: -1=
+00%; width: 100%; height: 100%; background: linear-gradient(90deg, transpar=
+ent, rgba(255, 255, 255, 0.4), transparent); animation: 2s ease 0s infinite=
+ normal none running shine; }
+
+@keyframes shine {=20
+  0% { left: -100%; }
+  50% { left: 100%; }
+  100% { left: 100%; }
+}
+
+.progress-percentage { font-family: Roboto, serif; font-size: 14px; font-we=
+ight: 500; color: rgb(250, 249, 246); opacity: 0.8; margin-top: 5px; }
+
+@media screen and (max-width: 1000px) {
+  .progress-bar-container { width: 80%; max-width: 350px; }
+  .loading-text { font-size: 16px; }
+  .searchbar { width: 90%; padding: 15px; }
+  .searchbar:focus { scale: 1.05; }
+}
+
+@media screen and (max-width: 480px) {
+  .progress-bar-container { width: 90%; max-width: 300px; height: 10px; }
+  .loading-text { font-size: 14px; }
+  .progress-percentage { font-size: 12px; }
+  .searchbar { width: 95%; padding: 15px; }
+  .searchbar:focus { scale: 1.02; }
+}
+
+.searchbar { padding: 1vw; width: 40%; border-radius: 5px; background: rgb(=
+122, 143, 171); text-align: left; font-size: 24px; border: none; outline: n=
+one; color: rgb(250, 249, 246); margin: 0px 0px 20px; transition: 0.3s; }
+
+.searchbar::placeholder { font-family: Roboto, serif; font-size: 16px; colo=
+r: rgb(250, 249, 246); text-align: center; opacity: 0.4; }
+
+.searchbar:focus { outline: none; background: rgb(111, 130, 155); scale: 1.=
+1; transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; }
+
+.game { margin: 0.45rem; cursor: pointer; position: relative; display: inli=
+ne-block; }
+
+.game img { width: 175px; height: 175px; border-radius: 10px; transition: 0=
+.35s; }
+
+.game:hover img { transform: scale(1.05) translateY(-0.2vw); filter: bright=
+ness(0.7); box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0.5vw; cursor: pointer; }
+
+.text { font-family: Roboto, serif; font-weight: 500; position: absolute; b=
+ottom: 0px; left: 50%; transform: translate(-50%, -50%); color: white; font=
+-size: 0.75rem; opacity: 0; transition: opacity 0.35s, transform 0.35s; ani=
+mation: 0.35s ease 0s 1 normal forwards running slide-out; }
+
+.game:hover .text { opacity: 1; animation: 0.35s ease 0s 1 normal forwards =
+running slide-in; }
+
+@keyframes slide-in {=20
+  0% { transform: translate(-50%, 0%); }
+  100% { transform: translate(-50%, calc(-50% - 0.2vw)); }
+}
+
+@keyframes slide-out {=20
+  0% { transform: translate(-50%, calc(-50% - 0.2vw)); }
+  100% { transform: translate(-50%, 0%); }
+}
+
+@media screen and (max-width: 1000px) {
+  .searchbar { width: 90%; padding: 15px; }
+  .searchbar:focus { scale: 1.05; }
+}
+
+@media screen and (max-width: 480px) {
+  .searchbar { width: 95%; padding: 15px; }
+  .searchbar:focus { scale: 1.02; }
+}
+------MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///assets/css/nav.css?v=3
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///assets/css/style.css?v=2
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-b9562a5f-696a-40d6-b656-157ddb48927d@mhtml.blink
+
+@charset "utf-8";
+
+.pp-banner-partner { right: 20px; bottom: 20px; position: fixed !important;=
+ z-index: 999999 !important; transition: transform 0.3s !important; transfo=
+rm: translateX(120%) !important; }
+
+.pp-banner-partner.show { transform: translateX(0px) !important; }
+
+.pp-banner-partner img { max-width: 220px !important; height: auto !importa=
+nt; overflow: hidden !important; box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 10p=
+x 0px !important; transition: transform 0.3s !important; border-radius: 10p=
+x !important; }
+
+.pp-banner-partner img:hover { transform: scale(1.05) !important; }
+
+.pp-banner-close-button { position: absolute !important; top: -10px !import=
+ant; right: -10px !important; width: 24px !important; height: 24px !importa=
+nt; background: rgb(255, 255, 255) !important; border-radius: 50% !importan=
+t; display: flex !important; border: 1px solid rgb(143, 138, 138) !importan=
+t; align-items: center !important; justify-content: center !important; curs=
+or: pointer !important; box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 5px !importa=
+nt; z-index: 1000000 !important; }
+
+.pp-banner-close-button::before, .pp-banner-close-button::after { content: =
+"" !important; position: absolute !important; width: 12px !important; heigh=
+t: 2px !important; background: rgb(51, 51, 51) !important; transform-origin=
+: center center !important; }
+
+.pp-banner-close-button::before { transform: rotate(45deg) !important; }
+
+.pp-banner-close-button::after { transform: rotate(-45deg) !important; }
+
+.pp-banner-close-button:hover { transform: scale(1.1) !important; }
+
+div.pp-banner-iframe { position: fixed !important; z-index: 999999 !importa=
+nt; transition: transform 0.3s !important; transform: translateX(120%) !imp=
+ortant; overflow: visible !important; border-radius: 10px !important; borde=
+r: 1px solid rgb(185, 185, 185) !important; box-shadow: rgba(0, 0, 0, 0.4) =
+0px 0px 10px 0px !important; padding: 4px !important; background: white !im=
+portant; inset: auto 20px 20px auto !important; }
+
+div.pp-banner-iframe.show { transform: translateX(0px) !important; }
+
+div.pp-banner-iframe > iframe { position: static !important; inset: auto !i=
+mportant; transform: none !important; border: none !important; border-radiu=
+s: 10px !important; display: block !important; margin: 0px !important; padd=
+ing: 0px !important; box-shadow: none !important; opacity: 1 !important; vi=
+sibility: visible !important; z-index: auto !important; max-width: none !im=
+portant; max-height: none !important; min-width: 0px !important; min-height=
+: 0px !important; }
+
+.pp-banner-hide { transform: translateX(120%) !important; }
+
+.pp-banner-iframe, .pp-banner-iframe * { box-sizing: border-box !important;=
+ }
+------MultipartBoundary--AL7hJg2ki6gOjUcQdDrkYzK9qgtEQoNjN3xJRMKB1Y------
